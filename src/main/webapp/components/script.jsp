@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="<%= application.getContextPath()%>/js/script.js"/>
